@@ -5,3 +5,10 @@ C:\Users\vagner.lourenco\source\repos\Cineflix\Cineflix\bin\Debug\Cineflix.exe
 C:\Users\vagner.lourenco\source\repos\Cineflix\Cineflix\bin\Debug\Cineflix.pdb
 C:\Users\vagner.lourenco\source\repos\Cineflix\Cineflix\obj\Debug\Cineflix.exe
 C:\Users\vagner.lourenco\source\repos\Cineflix\Cineflix\obj\Debug\Cineflix.pdb
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\bin\Debug\Cineflix.exe.config
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\bin\Debug\Cineflix.exe
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\bin\Debug\Cineflix.pdb
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\obj\Debug\Cineflix.csproj.AssemblyReference.cache
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\obj\Debug\Cineflix.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\obj\Debug\Cineflix.exe
+C:\Users\paulo\Source\Repos\Cineflix\Cineflix\obj\Debug\Cineflix.pdb

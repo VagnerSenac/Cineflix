@@ -16,15 +16,12 @@ namespace Cineflix
 
         
 
-       
-
-        public void cadProduto(List<ProdutoCad> listaProdutos)
+       List<ProdutoCad> listaProdutos = new List<ProdutoCad>();
+        
+        public ProdutoCad cadProduto()
         {
 
-            if (listaProdutos.Equals(null))
-            {
-                listaProdutos = new List<ProdutoCad>();
-            }
+           
             Console.Clear();
             Console.WriteLine("Registro de Produto");
             Console.WriteLine("\nDigite o nome do Produto: ");
@@ -52,16 +49,19 @@ namespace Cineflix
             {
                 Console.WriteLine($"Produto: {produto.Nome}, " + $"Descrição: {produto.precoProdutos}, " + $"Preço: {produto.precoProdutos}, " + $"Quantidade: {produto.Quantidade}, ");
             }
+
             Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
             Console.ReadKey();
             Console.Clear();
-            Cabec variavelCabecalho = new Cabec();
-            variavelCabecalho.Cabecalho();
+            //Cabec variavelCabecalho = new Cabec();
+            //variavelCabecalho.Cabecalho();
 
-            Produtos varPro = new Produtos();
+            //Produtos varPro = new Produtos();
 
-            ExibirMenu variavelMenu = new ExibirMenu();
-            variavelMenu.Menu(varPro);
+            //ExibirMenu variavelMenu = new ExibirMenu();
+            //variavelMenu.Menu(varPro);
+
+            return Produto;
 
         }
         public void ListarProdutos()
